@@ -4,8 +4,13 @@ description: "Instructions for the discussion section of a final report assignme
   \ on asymmetric Diels-Alder chemistry, organic synthesis catalytic asymmetric cycloadditions,\
   \ chiral auxiliary approaches, and catalytic asymmetric Diels-Alder strategies.\r\
   \n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/5b1c25de02499ad49922fff55fa4a3ef_MIT5_37s09_lab01_FinalReport.pdf
+file: /media/courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/5b1c25de02499ad49922fff55fa4a3ef_MIT5_37s09_lab01_FinalReport.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: 'Module 7: Introduction to Organic Synthesis Catalytic Asymmetric Cycloadditions '
 uid: 5b1c25de-0249-9ad4-9922-fff55fa4a3ef

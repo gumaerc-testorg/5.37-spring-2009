@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 3f9b9d44-7ee4-17d0-bb9c-264d01ca25b7
 ---
@@ -40,7 +43,7 @@ Lab Manual
 {{< tdopen >}}
 Dry and purify triethylamine by distillation and purify dibenzyl tartrate by trituration and recrystallization.
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Lab Manual Part 1 ([PDF]({{< baseurl >}}/resources/mit5_37s09_lab01_part1))
 {{< tdclose >}}
 
@@ -79,7 +82,7 @@ Purify the product of the esterification reaction by column chromatography. Anal
 {{< tdopen >}}
 Set up the hydrogenolysis reaction which will then run over the weekend at room temperature. If necessary, the teaching assistants will add more hydrogen to your balloons on the day after you set up the reaction.
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Lab Manual Part 2 ([PDF]({{< baseurl >}}/resources/mit5_37s09_lab01_part2))
 {{< tdclose >}}
 
@@ -100,7 +103,7 @@ Filter and concentrate the hydrogenolysis reaction mixture, and set up overnight
 {{< tdopen >}}
 Generate the chiral CAB Lewis acid catalyst in situ and set up the Diels-Alder reaction to run overnight at low temperature. The teaching assistants will add additional dry ice to your cooling bath during the evening to extend the time that the reaction remains below -70 °C.
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Lab Manual Part 3 ([PDF]({{< baseurl >}}/resources/mit5_37s09_lab01_part3))
 {{< tdclose >}}
 
