@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 68582b4c-19aa-5bb1-fbc1-a437a7015962
 resourcetype: Document
 title: The Invention of Cycloaddition and Annulation Strategies
 uid: a0b04cdc-bad0-3de7-695b-0e977fb40de9

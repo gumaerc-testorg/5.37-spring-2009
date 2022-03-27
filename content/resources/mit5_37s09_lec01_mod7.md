@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 68582b4c-19aa-5bb1-fbc1-a437a7015962
 resourcetype: Document
 title: The Diels-Alder Reaction
 uid: 87c56840-a5b6-938d-9352-34521af16119

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 3f9b9d44-7ee4-17d0-bb9c-264d01ca25b7
 resourcetype: Document
 title: Chiral Gas Chromatography Appendix
 uid: 6b8256d3-ae43-29bc-04d9-c8e1637fe3c3

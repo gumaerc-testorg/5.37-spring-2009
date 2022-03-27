@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 3f9b9d44-7ee4-17d0-bb9c-264d01ca25b7
 resourcetype: Document
 title: 'Lab Manual Part 1 '
 uid: c223e247-7cff-a28c-febf-a43108483ff3

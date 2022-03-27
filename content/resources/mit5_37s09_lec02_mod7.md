@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 68582b4c-19aa-5bb1-fbc1-a437a7015962
 resourcetype: Document
 title: 'Theory and "Swager Centric" Applications '
 uid: 353d95ad-d15d-e8bb-de02-89eebb0a8d05

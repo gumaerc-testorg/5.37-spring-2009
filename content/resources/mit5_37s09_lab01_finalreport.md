@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 3f9b9d44-7ee4-17d0-bb9c-264d01ca25b7
 resourcetype: Document
 title: 'Module 7: Introduction to Organic Synthesis Catalytic Asymmetric Cycloadditions '
 uid: 5b1c25de-0249-9ad4-9922-fff55fa4a3ef

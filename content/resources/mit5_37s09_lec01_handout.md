@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 68582b4c-19aa-5bb1-fbc1-a437a7015962
 resourcetype: Document
 title: 'Introduction to Organic Synthesis: The Diels-Alder Reaction'
 uid: e8ac36ca-55ff-deaf-a876-9e17be2c0efe
