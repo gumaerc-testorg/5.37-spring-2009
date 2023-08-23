@@ -1,21 +1,27 @@
 ---
 content_type: page
+description: This section provides the schedule of lab activities, lab manuals, instructions
+  for assignments, and other materials related to the lab activities for the course.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
 title: Labs
 uid: 3f9b9d44-7ee4-17d0-bb9c-264d01ca25b7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Complete Lab Manual ([PDF]({{< baseurl >}}/resources/mit5_37s09_lab01))
+Complete Lab Manual ({{% resource_link f1df88a0-ecdc-bedd-2b70-cc446a753680 "PDF" %}})
 
-Chiral Gas Chromatography Appendix ([PDF]({{< baseurl >}}/resources/mit5_37s09_lab01_chiral_gc))
+Chiral Gas Chromatography Appendix ({{% resource_link 6b8256d3-ae43-29bc-04d9-c8e1637fe3c3 "PDF" %}})
 
-Instructions for Discussion Section of Final Report ([PDF]({{< baseurl >}}/resources/mit5_37s09_lab01_finalreport))
+Instructions for Discussion Section of Final Report ({{% resource_link 5b1c25de-0249-9ad4-9922-fff55fa4a3ef "PDF" %}})
 
-Grade Sheet ([PDF]({{< baseurl >}}/resources/mit5_37s09_lab01_gradesheet))
+Grade Sheet ({{% resource_link 92bc163d-d4bc-dafc-bb6f-e15853764e1d "PDF" %}})
 
-The [Digital Lab Techniques Manual](/resources/res-5-0001-digital-lab-techniques-manual-spring-2007/index.htm) provides detailed instructions concerning most of the experimental techniques employed in this lab. The specific videos that are relevant to this module are indicated in each section of Part V of the Lab Manual.
+The [Digital Lab Techniques Manual](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007) provides detailed instructions concerning most of the experimental techniques employed in this lab. The specific videos that are relevant to this module are indicated in each section of Part V of the Lab Manual.
 
 Lab Schedule
 ------------
@@ -44,7 +50,7 @@ Lab Manual
 Dry and purify triethylamine by distillation and purify dibenzyl tartrate by trituration and recrystallization.
 {{< tdclose >}}
 {{< tdopen rowspan="4" >}}
-Lab Manual Part 1 ([PDF]({{< baseurl >}}/resources/mit5_37s09_lab01_part1))
+Lab Manual Part 1 ({{% resource_link c223e247-7cff-a28c-febf-a43108483ff3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +89,7 @@ Purify the product of the esterification reaction by column chromatography. Anal
 Set up the hydrogenolysis reaction which will then run over the weekend at room temperature. If necessary, the teaching assistants will add more hydrogen to your balloons on the day after you set up the reaction.
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-Lab Manual Part 2 ([PDF]({{< baseurl >}}/resources/mit5_37s09_lab01_part2))
+Lab Manual Part 2 ({{% resource_link ac88dc72-8b39-ca2a-b487-c9f31df2c2c8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +110,7 @@ Filter and concentrate the hydrogenolysis reaction mixture, and set up overnight
 Generate the chiral CAB Lewis acid catalyst in situ and set up the Diels-Alder reaction to run overnight at low temperature. The teaching assistants will add additional dry ice to your cooling bath during the evening to extend the time that the reaction remains below -70 °C.
 {{< tdclose >}}
 {{< tdopen rowspan="5" >}}
-Lab Manual Part 3 ([PDF]({{< baseurl >}}/resources/mit5_37s09_lab01_part3))
+Lab Manual Part 3 ({{% resource_link 877eefa4-9817-97c7-567e-d802f01f0f04 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
