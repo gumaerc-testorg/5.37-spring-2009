@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and information
+  on meeting times, prerequisites, and the course calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 109bd85d-65a5-2015-a9f2-ba6ab85a2b47
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
