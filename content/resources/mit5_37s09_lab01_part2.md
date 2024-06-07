@@ -3,6 +3,7 @@ content_type: resource
 description: Instructions for a lab experiment on deprotection of benzyl esters by
   hydrogenolysis.
 file: /courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/ac88dc728b39ca2ab487c9f31df2c2c8_MIT5_37s09_lab01_part2.pdf
+file_size: 79731
 file_type: application/pdf
 learning_resource_types:
 - Labs
