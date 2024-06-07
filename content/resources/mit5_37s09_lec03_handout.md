@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on organic synthesis, the Diels-Alder reaction, asymmetric
   induction, catalytic asymmetric cycloadditions, and total synthesis of prostaglandins.
 file: /courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/47047939a908f6d4b385dd5baca8c7a5_MIT5_37s09_lec03_Handout.pdf
+file_size: 93421
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
