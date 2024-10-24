@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions for a lab experiment on the catalytic asymmetric Diels-Alder
   reaction.
-file: /courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/877eefa4981797c7567ed802f01f0f04_MIT5_37s09_lab01_part3.pdf
+file: /ol-ocw-studio-app/courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/877eefa4981797c7567ed802f01f0f04_MIT5_37s09_lab01_part3.pdf
 file_size: 124037
 file_type: application/pdf
 learning_resource_types:
