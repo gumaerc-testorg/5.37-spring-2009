@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on the Diels-Alder reaction, theory and "Swager Centric"
   applications, simple bonding, perturbation theory, the Alder Endo rule, secondary
   orbital interactions, polymers, and monomers.
-file: /courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/353d95add15de8bbde0289eebb0a8d05_MIT5_37s09_lec02_Mod7.pdf
+file: /ol-ocw-studio-app/courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/353d95add15de8bbde0289eebb0a8d05_MIT5_37s09_lec02_Mod7.pdf
 file_size: 4387121
 file_type: application/pdf
 learning_resource_types:
