@@ -2,7 +2,7 @@
 content_type: resource
 description: "Instructions for a lab experiment on monoesterification of dibenzyl\
   \ tartrate with 2,6-dimethoxybenzoyl chloride.\r\n"
-file: /ol-ocw-studio-app/courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/c223e2477cffa28cfebfa43108483ff3_MIT5_37s09_lab01_part1.pdf
+file: /courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/c223e2477cffa28cfebfa43108483ff3_MIT5_37s09_lab01_part1.pdf
 file_size: 253896
 file_type: application/pdf
 learning_resource_types:

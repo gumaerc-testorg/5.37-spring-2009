@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on organic synthesis, the Diels-Alder reaction, strategies
   for the assembly of cyclic compounds, general principles of retrosynthetic analysis,
   and the power of convergent synthesis.
-file: /ol-ocw-studio-app/courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/e8ac36ca55ffdeafa8769e17be2c0efe_MIT5_37s09_lec01_Handout.pdf
+file: /courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/e8ac36ca55ffdeafa8769e17be2c0efe_MIT5_37s09_lec01_Handout.pdf
 file_size: 198495
 file_type: application/pdf
 learning_resource_types:
