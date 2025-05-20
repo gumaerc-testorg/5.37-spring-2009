@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on alternate paths for the development of new synthetic
   methods, the invention of cycloaddition and annulation strategies, and the Diels-Alder
   reaction.
-file: /ol-ocw-studio-app/courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/a0b04cdcbad03de7695b0e977fb40de9_MIT5_37s09_lec05_PPT.pdf
+file: /courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/a0b04cdcbad03de7695b0e977fb40de9_MIT5_37s09_lec05_PPT.pdf
 file_size: 445777
 file_type: application/pdf
 learning_resource_types:
