@@ -4,7 +4,7 @@ description: Lecture notes on organic synthesis, the Diels-Alder reaction, intri
   stereoselectivity, asymmetric induction, catalytic asymmetric cycloadditions, controlling
   the absolute stereochemistry, chiral auxiliaries, and catalytic asymmetric Diels-Alder
   reactions.
-file: /courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/ce44c7be7d5b373dbefadac93cb62d92_MIT5_37s09_lec04_Handout.pdf
+file: /ol-ocw-studio-app/courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/ce44c7be7d5b373dbefadac93cb62d92_MIT5_37s09_lec04_Handout.pdf
 file_size: 147775
 file_type: application/pdf
 learning_resource_types:
