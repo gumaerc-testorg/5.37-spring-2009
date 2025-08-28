@@ -3,7 +3,7 @@ content_type: page
 description: This section provides the schedule of lab activities, lab manuals, instructions
   for assignments, and other materials related to the lab activities for the course.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 3f9b9d44-7ee4-17d0-bb9c-264d01ca25b7

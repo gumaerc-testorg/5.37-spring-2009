@@ -3,7 +3,7 @@ content_type: resource
 description: Asymmetric Diels-Alder reaction of cyclopentadiene and methacrolein.
   The chiral acyloxyborane catalyst (CAB) helps control the stereochemical outcome
   of this cycloaddition reaction. (Image by MIT OpenCourseWare.)
-file: /courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/746431f5c413e511971541b3f002dafa_chp_dielsalder.jpg
+file: /ol-ocw-studio-app/courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/746431f5c413e511971541b3f002dafa_chp_dielsalder.jpg
 file_size: 41426
 file_type: image/jpeg
 image_metadata:

@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Form used for grading students work in the course.
-file: /courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/92bc163dd4bcdafcbb6fe15853764e1d_MIT5_37s09_lab01_GradeSheet.pdf
+file: /ol-ocw-studio-app/courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/92bc163dd4bcdafcbb6fe15853764e1d_MIT5_37s09_lab01_GradeSheet.pdf
 file_size: 111341
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
